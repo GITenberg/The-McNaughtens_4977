@@ -1,5 +1,5 @@
 _repo: The-McNaughtens_4977
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Morlock, Frank J.
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Comedies'
 - !lcc 'PQ'
 - !lcsh 'Drama'
+- GITenberg
 title: The McNaughtens
 url: http://www.gutenberg.org/ebooks/4977
